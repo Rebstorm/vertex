@@ -1,0 +1,22 @@
+{
+  "name": "veretx",
+  "version": "0.0.1",
+  "description": "simple gunzip and electron example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebstorm/vertex.git"
+  },
+  "author": "paul.jacks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rebstorm/vertex/issues"
+  },
+  "homepage": "https://github.com/Rebstorm/vertex#readme",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
